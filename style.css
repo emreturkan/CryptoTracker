@@ -4,3 +4,12 @@
 .red{
     color: red;
 }
+
+
+.show.block{
+    display: block;
+}
+
+.none{
+    display: none;
+}
